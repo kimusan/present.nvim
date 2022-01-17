@@ -12,7 +12,7 @@ You can install Present with your plugin manager of choice
 
 ```lua
   use {
-    'chaitanyabspripc/present.nvim',
+    'chaitanyabsprip/present.nvim',
     config = function()
       require('present').setup{
         -- ... your config here
